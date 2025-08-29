@@ -4,9 +4,7 @@
 Проект использует библиотеку [`python-telegram-bot`](https://github.com/python-telegram-bot/python-telegram-bot) и создан для весёлого общения.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Telegram Bot](https://img.shields.io/badge/bot-Telegram-blue)](https://core.telegram.org/bots)
-[![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
 
 ---
 
