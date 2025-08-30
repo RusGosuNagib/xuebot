@@ -1,7 +1,7 @@
 # 🤖 ХуеБот
 
 **ХуеБот** — это забавный Telegram-бот, способный "хуефицировать" текст и отвечать случайными фразами.  
-Проект использует библиотеку [`python-telegram-bot`](https://github.com/python-telegram-bot/python-telegram-bot) и создан для весёлого общения.
+Создан для изучения возможностей API Telegram и ознакомления с python.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Telegram Bot](https://img.shields.io/badge/bot-Telegram-blue)](https://core.telegram.org/bots)
